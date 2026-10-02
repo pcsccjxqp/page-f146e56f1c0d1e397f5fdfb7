@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "182f3914e4ea67ec9dc144c1",
+  "owner": "pcsccjxqp",
+  "repo": "page-f146e56f1c0d1e397f5fdfb7",
+  "title": "SoCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f146e56f1c0d1e397f5fdfb7",
+      "a": "SoCloud",
+      "b": "",
+      "entity": "SoCloud",
+      "brand": "SoCloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "64bc8731edcf21e991ed225d34ae988adbd397c6de452b9f04ab9c0026480eb1",
+      "content": {
+        "keyword1": "SoCloud",
+        "keyword2": "",
+        "primary_entity": "SoCloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "SoCloud提供高速稳定的VPN梯子与机场订阅服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问官网即可了解套餐与使用教程。",
+          "AI_DESCRIPTION": "SoCloud提供高速稳定的VPN梯子与机场订阅服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问官网即可了解套餐与使用教程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e2e8f0;line-height:1.65;font-size:16px}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#0b1c2e;border-bottom:1px solid #155e75;padding:14px 0}.brand{font-size:1.35rem;font-weight:700;color:#22d3ee;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 16px}nav a{color:#67e8f9;text-decoration:none;font-size:.95rem}main{padding:24px 0 40px}h1{font-size:1.75rem;color:#a5f3fc;margin:12px 0 16px;line-height:1.3}h2{font-size:1.35rem;color:#22d3ee;margin:28px 0 12px;padding-left:12px;border-left:4px solid #22d3ee}h3{font-size:1.1rem;color:#7dd3fc;margin:16px 0 8px}p,li{margin-bottom:8px}.lead{font-size:1.05rem;color:#cbd5e1;max-width:760px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:16px 0}.card{background:#0d2137;border:1px solid #164e63;border-radius:10px;padding:18px 16px}.card.featured{border:2px solid #22d3ee;background:#0e2a40}.price{font-size:1.6rem;font-weight:700;color:#67e8f9;margin:6px 0}.annual{font-size:.9rem;color:#94a3b8}.card ul{padding-left:18px;margin:10px 0}.card li{margin-bottom:6px;font-size:.95rem}.tag{display:inline-block;background:#155e75;color:#a5f3fc;font-size:.75rem;padding:2px 8px;border-radius:4px;margin-bottom:8px}.clients-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:12px 0}.cli{background:#0d2137;border:1px solid #155e75;padding:12px;border-radius:8px}ol{padding-left:22px;margin:10px 0}details{background:#0d2137;border:1px solid #164e63;border-radius:8px;padding:10px 14px;margin:10px 0}summary{color:#67e8f9;font-weight:600}details p{margin-top:8px;color:#cbd5e1}.friends{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0;margin:12px 0}.friends a{color:#67e8f9}footer{background:#061018;border-top:1px solid #155e75;padding:20px 0;font-size:.9rem;color:#94a3b8}footer a{color:#22d3ee}.ad-box{background:#0d2137;border:1px dashed #155e75;padding:14px;border-radius:8px;margin:16px 0;color:#94a3b8}a{color:#67e8f9}@media(max-width:640px){h1{font-size:1.45rem}.cards{grid-template-columns:1fr}}</style><header><div class=\"wrap\"><div class=\"brand\">SoCloud</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a></nav></div></header><main><div class=\"wrap\"><section id=\"intro\"><h1>SoCloud 官方网站：VPN 梯子、网络加速器与客户端下载</h1><p class=\"lead\">SoCloud 是面向个人与团队的网络加速与机场订阅服务。我们把稳定节点、清晰套餐和多端客户端导入流程放在同一站点，方便你在官网完成了解、选型与上手。无论你需要日常浏览加速、流媒体解锁还是游戏线路优化，都可以先从本页确认流量、设备数与客户端兼容性，再按教程导入订阅。</p><p>本站定位为 SoCloud 官方网站信息页，集中展示套餐对照、客户端选择要点、操作步骤与常见问题，不堆砌空泛宣传。节点与解锁能力以套餐说明为准，建议按使用强度选择基础版、旗舰版或团队版。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>三档套餐按流量、同时在线设备与线路能力划分。年付可锁定全年价格。旗舰版适合大多数需要流媒体与游戏加速的用户。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"card featured\"><span class=\"tag\">重点推荐</span><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#clients\">去选客户端</a></p></article><article class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#faq\">阅读团队常见问题</a></p></article></div></section><section id=\"clients\"><h2>客户端选择与官网下载指引</h2><p>SoCloud 提供机场订阅，本身不捆绑第三方安装包。为确保来源可核验，请在各客户端开发者官网或正规应用商店完成下载，再回到本站教程导入订阅。以下按系统整理常用选择，便于对照。</p><div class=\"clients-grid\"><div class=\"cli\"><h3>Windows</h3><p>Clash Verge、Clash Meta 图形客户端、v2rayN。适合桌面长期在线与规则分流。</p></div><div class=\"cli\"><h3>macOS</h3><p>ClashX Meta、Surge for Mac。系统代理与规则能力完整，适合办公与开发环境。</p></div><div class=\"cli\"><h3>iOS</h3><p>Shadowrocket、Stash、Quantumult X。通过应用商店获取，导入订阅后即可切换节点。</p></div><div class=\"cli\"><h3>Android</h3><p>Clash Meta for Android、v2rayNG。注意权限与电池优化，避免后台被系统冻结。</p></div></div><h3>订阅导入要点</h3><p>复制用户中心的订阅地址，在客户端中选择「添加订阅 / 从 URL 更新」，保存后手动更新一次节点列表。优先连接延迟较低、标注流媒体或 IPLC 的节点。同一订阅可在套餐允许的设备数内使用，超出可能被限制。</p><p>若你刚接触梯子与加速器，建议先在一台设备跑通，再同步到手机。客户端版本请保持更新，旧内核可能导致协议或规则不兼容。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合观看国际平台与高清内容。基础版覆盖常见基础解锁需求。请选择对应解锁节点，并避免同时开启冲突的系统代理。</p><h3>游戏与实时通信</h3><p>需要更低延迟时，使用旗舰版 IPLC 游戏加速优化线路，先测延迟再固定节点。团队版高带宽节点适合多人同时在线。</p><h3>跨境办公与学习</h3><p>稳定访问协作文档、代码托管、学术数据库时，建议固定一条质量较好的线路，并开启客户端的规则分流，让国内流量直连。</p><h3>多设备日常加速</h3><p>手机与电脑同时使用时，核对套餐设备上限。基础版 3 台、旗舰版 5 台、团队版 20 台。路由器挂载会占用设备名额，需提前规划。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按下列顺序即可完成从选型到连接。本页为官网说明，实际下单与账单以账户中心显示为准。</p><ol><li>对照流量、设备数与是否需要 IPLC / 原生解锁，选定基础版、旗舰版或团队版。</li><li>完成订阅后进入用户中心，复制机场订阅链接，妥善保存，不要公开传播。</li><li>根据系统在开发者官网或应用商店下载客户端，安装后授予必要的 VPN / 代理权限。</li><li>在客户端添加订阅 URL，开启自动更新，拉取节点与规则。</li><li>测延迟或看节点标签，连接目标线路；流媒体请选用解锁节点，游戏请选用 IPLC 或低延迟节点。</li><li>连接异常时先更新订阅、更换节点、检查系统时间与本地防火墙；旗舰与团队用户可走优先工单。</li></ol><h3>使用注意</h3><p>流量按套餐额度统计，通常随自然月重置。仅将服务用于合法合规的网络访问。不要在不明来源站点下载「破解客户端」，以免订阅泄露。团队版如需定制路由，通过专属客户经理沟通网段与分流策略。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>SoCloud 官网如何获取客户端？是否提供安装包？</summary><p>SoCloud 是机场订阅与网络加速服务，官网重点提供套餐说明与导入教程。客户端请从 Clash、Shadowrocket、v2rayN 等软件的官方渠道下载，避免使用来路不明的修改包。下载完成后，用本站「客户端选择」章节的步骤导入订阅即可。</p></details><details><summary>订阅链接怎样导入到不同客户端？</summary><p>几乎所有主流客户端都支持 URL 订阅。复制链接后，在软件的订阅或配置页选择「从 URL 添加」，保存并更新。iOS 应用可能需要先允许 VPN 配置。更新成功后应能看到节点列表；若为空，检查链接是否完整、账户是否仍在有效期。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度使用、设备不超过 3 台，选基础版 100GB。需要原生流媒体、游戏 IPLC 和 5 台设备，选旗舰版 300GB。多人共用、需要 1000GB、20 台设备或企业定制路由，选团队版。年付价格已在各卡片标明，适合长期使用。</p></details><details><summary>能否稳定解锁流媒体？游戏延迟如何？</summary><p>旗舰版写明全节点原生流媒体解锁，并含 IPLC 专线游戏加速优化；团队版另有 VIP 高带宽节点。实际播放与延迟仍受当地网络、节点负载和平台策略影响，建议在客户端内切换节点测试。基础版仅承诺基础流媒体解锁。</p></details><details><summary>流量如何计算，用尽或到期怎么办？</summary><p>套餐按月度额度计费展示，例如基础版每月 100GB。用尽后可能限速或暂停新连接，可升级到更高档。到期后节点会停止，需要续费。年付用户按年结算但仍按月额度使用。精确余量以用户中心为准。</p></details><details><summary>同时在线设备超限会怎样？路由器算一台吗？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出后新设备可能无法认证。手机、电脑、平板均计入。若在路由器上挂载 SoCloud 订阅给全家使用，通常按路由器这一端占用名额，局域网设备是否另计取决于你的部署方式，团队场景建议直接选团队版。</p></details></section><section id=\"ads\"><h2>展示合作</h2><div class=\"ad-box\"><p>SoCloud 官网合作展示位：可放置合法网络工具、客户端文档与企业服务介绍。当前为信息占位，不跳转站外安装包。</p><p><a href=\"#clients\">回到客户端选择</a> · <a href=\"#plans\">查看套餐</a></p></div></section><section id=\"links\"><h2>友情链接与站点地图</h2><p>友链用于同类合规信息服务互换，链接保持为页内锚点，避免离开说明页。完整栏目见下方地图。</p><ul class=\"friends\"><li><a href=\"#intro\">SoCloud 简介</a></li><li><a href=\"#plans\">套餐对照</a></li><li><a href=\"#clients\">客户端下载指引</a></li><li><a href=\"#guide\">订阅导入教程</a></li><li><a href=\"#faq\">VPN 梯子问答</a></li><li><a href=\"#\">加速器文档交换</a></li><li><a href=\"#\">节点使用规范</a></li></ul><p>网站地图：首页简介、套餐方案、客户端选择、使用场景、操作说明、常见问题、合作展示、友情链接。</p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>© SoCloud 官方网站。提供机场订阅、VPN 梯子与网络加速相关说明，客户端请走正规下载渠道。</p><p><a href=\"#intro\">返回顶部</a> · <a href=\"#links\">网站地图</a> · <a href=\"#faq\">帮助</a></p></div></footer>",
+          "hash": "3444482f0165dd498c517b778d6e573331ad2131d30496c9685d8c70649c3423",
+          "seo": {
+            "title": "SoCloud官网 | VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "SoCloud,SoCloud官网,SoCloud官方网站,VPN梯子,网络加速,加速器,机场订阅,客户端下载,Clash,Shadowrocket,IPLC",
+            "description": "SoCloud提供高速稳定的VPN梯子与机场订阅服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问官网即可了解套餐与使用教程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yrecelm.cn",
+    "host": "p-e8aafd7d89.yrecelm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "yrecelm.cn",
+      "url": "https://yrecelm.cn/",
+      "label": "IPLC",
+      "apex": "yrecelm.cn",
+      "kind": null,
+      "identity": "mumdvvmp/page-7cb9b7fca93a4c65be96e925"
+    },
+    {
+      "host": "angongfu.cn",
+      "url": "https://angongfu.cn/",
+      "label": "SoCloud",
+      "apex": "angongfu.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-60d0e8a2102c8e7f399ed537"
+    },
+    {
+      "host": "ata1.cn",
+      "url": "https://ata1.cn/",
+      "label": "SoCloud",
+      "apex": "ata1.cn",
+      "kind": null,
+      "identity": "vueukyavdu/page-3a8029d81e2e4d481d607fd0"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e1fb23a253f224702ec913e5848f90a908cc29433c7308377e14b7d04cbdf192",
+    "sitemap.xml": "44ae1f8ba35da300d34e29550a67f5713558651897cd7b2a85448fabea27799d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dca40f2eff005237464fdd9b1cd28455b679a2d4c433b7cb6718a0cb680ca8dc",
+    "robots.txt": "b664534492b48ff14473b3069e63d8309282cbbb71c5d1458e68cae2574a5d4e",
+    "7f061e367eed16d6beb58679331a3028.txt": "3e6aade68891c3d8683608dd67a370102588a3da7b71e6769ba204a79c1b82f3"
+  },
+  "revision": "862374dc8e5f2535c73aa363c59696a00a8bfd6e4ab99f47bcb91846545b9a45"
+}
